@@ -13,7 +13,6 @@
 11. Receiving the rewards may require identity verification. Receiving token delegations at mainnet may be subject to further terms and conditions.
 12. Cheating and/or bad behavior gets you disqualified. This includes, but is not limited to creating multiple identities, using fake email addresses, polluting the communication channels. Be nice and respectful to your fellow participants.
 
-ttt
 ### Point System
 
 * Solving each challenge may offer you an amount of points. These are included in the description of the challenge. One challenge can offer multiple types of rewards, depending on the complexity of the work required and how the effort is split into different sections of the challenge. 
